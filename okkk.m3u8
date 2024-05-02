@@ -202,7 +202,7 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeeanmolcinema.png",Zee Anmol Cinema
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_Cinema_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeeclassic.png",Zee Classic
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeeclassic.jpg",Zee Classic
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Classic_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeecafe.png",Zee Cafe HD
