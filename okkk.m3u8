@@ -1,17 +1,16 @@
 #EXTM3U
-
-================================================= : Global News : =================================================
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/aljazeera.png" group-title="Global",Al Jazeera
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 ================================================= : Bangladesh : =================================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/somoytv.png" group-title="Bangla",Somoy TV
-http://cdn01.palki.tv:80/live/SomoyTV-M/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+##http://cdn01.palki.tv:80/live/SomoyTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/jamunatv.png" group-title="Bangla",Jamuna TV
-http://cdn01.palki.tv:80/live/JamunaTV-M/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+##http://cdn01.palki.tv:80/live/JamunaTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/independenttv.png" group-title="Bangla",Independent TV
 http://cdn01.palki.tv:80/live/Independent-M/tracks-v1a1/mono.m3u8
@@ -23,7 +22,11 @@ http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv:80/live/News24-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/dbcnews.png" group-title="Bangla",DBC News
-http://cdn01.palki.tv:80/live/DBC-M/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+##http://cdn01.palki.tv:80/live/DBC-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/jagonews24.png" group-title="Bangla",Jago News 24
+https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/channel24.png" group-title="Bangla",Channel 24
 http://cdn01.palki.tv:80/live/Channel24-M/tracks-v1a1/mono.m3u8
@@ -35,7 +38,11 @@ http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/atnbangla.png" group-title="Bangla",ATN Bangla
-http://cdn01.palki.tv:80/live/ATNBangla-M/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+##http://cdn01.palki.tv:80/live/ATNBangla-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/atnbangla.png" group-title="Bangla",ATN Bangla UK
+https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/atnnews.png" group-title="Bangla",ATN News
 http://cdn01.palki.tv:80/live/ATNNews-M/tracks-v1a1/mono.m3u8
@@ -47,10 +54,12 @@ http://cdn01.palki.tv:80/live/AnandaTV-M/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv:80/live/AsianTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/banglatv.png" group-title="Bangla",Bangla TV
-http://cdn01.palki.tv:80/live/BanglaTV-M/tracks-v1a1/mono.m3u8
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+##http://cdn01.palki.tv:80/live/BanglaTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/banglavision.png" group-title="Bangla",BanglaVision
-http://cdn01.palki.tv:80/live/BanglaVision-M/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+##http://cdn01.palki.tv:80/live/BanglaVision-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/bijoytv.png" group-title="Bangla",Bijoy TV
 http://cdn01.palki.tv:80/live/BijoyTV-M/tracks-v1a1/mono.m3u8
@@ -64,12 +73,15 @@ http://cdn01.palki.tv:80/live/Channel9-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/channeli.png" group-title="Bangla",Channel i
 http://cdn01.palki.tv:80/live/Channeli-M/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/channels.png" group-title="Bangla",CHANNEL S HD
+https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/deeptotv.png" group-title="Bangla",Deepto TV
-http://cdn01.palki.tv:80/live/DeeptoTV-M/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+##http://cdn01.palki.tv:80/live/DeeptoTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/deshtv.png" group-title="Bangla",Desh TV
-https://freeiptv25.netlify .app/live/bdix/app/DeshTv.m3u8
-##http://cdn01.palki.tv:80/live/DeshTV-M/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv:80/live/DeshTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/durontotv.png" group-title="Bangla",Duronto TV
 http://cdn01.palki.tv:80/live/Duronto-M/tracks-v1a1/mono.m3u8
@@ -80,8 +92,9 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 ##https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/ekhontv.png" group-title="Bangla",Ekhon TV
+https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 ##http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-v1a1/mono.m3u8
-https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+##https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/gaanbangla.png" group-title="Bangla",Gaan Bangla
 http://cdn01.palki.tv:80/live/GaanBangla-M/tracks-v1a1/mono.m3u8
@@ -110,38 +123,52 @@ http://cdn01.palki.tv:80/live/MyTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/ntv.png" group-title="Bangla",NTV
 http://cdn01.palki.tv:80/live/NTV-M/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/ntv.png" group-title="Bangla",NTV UK
+https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nagoriktv.png" group-title="Bangla",Nagorik TV
 http://cdn01.palki.tv:80/live/NagorikTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nexustv.png" group-title="Bangla",Nexus TV
-http://cdn01.palki.tv:80/live/NexusTV-M/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+##http://cdn01.palki.tv:80/live/NexusTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/rtv.png" group-title="Bangla",RTV
-http://cdn01.palki.tv:80/live/RTV-M/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+##http://cdn01.palki.tv:80/live/RTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/satv.png" group-title="Bangla",SA TV
 http://cdn01.palki.tv:80/live/SATV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/tbn24.png" group-title="Bangla",TBN24
-http://cdn01.palki.tv:80/live/TBN24-M/tracks-v1a1/mono.m3u8
+https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+##http://cdn01.palki.tv:80/live/TBN24-M/tracks-v1a1/mono.m3u8
 
 ================================================= : Indian Bangla : =================================================
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/amarbangla.png",Amar Bangla
+https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeebangla.png",Zee Bangla HD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Bangla_HD_MOB/Fallback/index.m3u8
+http://starshare.live:8080/live/Sylvia/Sylvia/98881.m3u8
 
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeebanglacinema.png",Zee Bangla Cinema
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Bangla_Cinema_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/colorsbangla.png",Colors Bangla HD
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+http://starshare.live:8080/live/Sylvia/Sylvia/98882.m3u8
 
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/colorsbanglacinema.png",Colors Bangla Cinema
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/starjalsha.png",Star Jalsha HD
-http://xtv.ooo:8080/Sehrish/12345/245898
-##https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+http://starshare.live:8080/live/Sylvia/Sylvia/98883.m3u8
+##http://xtv.ooo:8080/Sehrish/12345/245898
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/starjalshamovies.png",Star Jalsha Movies HD
+http://starshare.live:8080/live/Sylvia/Sylvia/98884.m3u8
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/enter10bangla.png",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/banglaplushd.png",Bangla Plus HD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -156,9 +183,9 @@ https://freenote.biz/raw/zmxahjo9nu
 https://freenote.biz/raw/7bzjffyyfq
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nationalgeographic.png",National Geographic
-http://195.26.87.217/live.ts?channelId=176&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#$http://honeywatch.net:80/play/live.php?mac=00:1a:79:a5:9f:91&stream=174762&extension=m3u8
-##http://45.159.74.13/NationalGeographic/tracks-v1a2/mono.m3u8
+http://starshare.live:8080/live/Sylvia/Sylvia/98874.m3u8
+##http://195.26.87.217/live.ts?channelId=176&uid=7435&deviceMac=00:1A:79:51:4B:3A
+##http://honeywatch.net:80/play/live.php?mac=00:1a:79:a5:9f:91&stream=174762&extension=m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/natgeowild.png",Nat Geo Wild
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWildHD/master.m3u8
@@ -181,6 +208,12 @@ https://freenote.biz/raw/3tsnttz214
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discoveryturbo.png",Discovery Turbo
 https://freenote.biz/raw/jiajld1yss
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/bbcearth.png",BBC Earth
+https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/travelxp.png",Travel XP HD Bangla
+http://starshare.live:8080/live/Sylvia/Sylvia/20622.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/foodnetwork.png",Food Network
 https://freenote.biz/raw/xieapsme6r
@@ -289,6 +322,9 @@ http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://195.26.87.217/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 ================================================= : Kids : =================================================
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/kidscreation.png",Kids Creation
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/cartoonnetwork.png",Cartoon Network
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
