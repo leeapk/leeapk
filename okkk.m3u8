@@ -27,7 +27,8 @@ https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/channel24.png" group-title="Bangla",Channel 24
-http://cdn01.palki.tv:80/live/Channel24-M/tracks-v1a1/mono.m3u8
+http://59.103.181.178:8000/play/a06e/index.m3u8
+##http://cdn01.palki.tv:80/live/Channel24-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/btv.png" group-title="Bangla",BTV
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
@@ -66,7 +67,8 @@ http://cdn01.palki.tv:80/live/BijoyTV-M/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv:80/live/BoishakhiTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/channel9.png" group-title="Bangla",Channel 9
-http://cdn01.palki.tv:80/live/Channel9-M/tracks-v1a1/mono.m3u8
+http://59.103.181.178:8000/play/a06i/index.m3u8
+##http://cdn01.palki.tv:80/live/Channel9-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/channeli.png" group-title="Bangla",Channel i
 http://cdn01.palki.tv:80/live/Channeli-M/tracks-v1a1/mono.m3u8
@@ -101,7 +103,8 @@ http://cdn01.palki.tv:80/live/GaanBangla-M/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv:80/live/GaziTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/globaltv.png" group-title="Bangla",Global TV
-http://cdn01.palki.tv:80/live/GlobalTV-M/tracks-v1a1/mono.m3u8
+http://59.103.181.178:8000/play/a06g/index.m3u8
+##http://cdn01.palki.tv:80/live/GlobalTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/greentv.png" group-title="Bangla",Green TV
 http://cdn01.palki.tv:80/live/GreenTV-M/tracks-v1a1/mono.m3u8
@@ -110,7 +113,8 @@ http://cdn01.palki.tv:80/live/GreenTV-M/tracks-v1a1/mono.m3u8
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/maasrangatv.png" group-title="Bangla",Maasranga TV
-http://cdn01.palki.tv:80/live/MaasrangaTV-M/tracks-v1a1/mono.m3u8
+http://59.103.181.178:8000/play/a069/index.m3u8
+##http://cdn01.palki.tv:80/live/MaasrangaTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/mohonatv.png" group-title="Bangla",Mohona TV
 http://cdn01.palki.tv:80/live/MohonaTV-M/tracks-v1a1/mono.m3u8
@@ -301,10 +305,9 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Zest_HD_MOB/Fallback/index.m3u
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeetalkies.png",Zee Talkies HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Talkies_HD_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zoom.png",Zing
-http://195.26.87.217/live.ts?channelId=219&uid=7435&deviceMac=00:1A:79:51:4B:3A
-##https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zing_MOB/Fallback/index.m3u8
-
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zing.png",Zing
+http://59.103.181.178:8000/play/a07p/index.m3u8
+##http://195.26.87.217/live.ts?channelId=219&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/colorstv.png",Colors HD
 http://195.26.87.217/live.ts?channelId=160&uid=7435&deviceMac=00:1A:79:51:4B:3A
 ##https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_HD_MOB/Fallback/index.m3u8
@@ -348,17 +351,17 @@ http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://195.26.87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A
 ##http://103.120.172.74:1150
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonymax.png",Sony Max 2 HD
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonymax2.png",Sony Max 2 HD
 http://195.26.87.217/live.ts?channelId=183&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonymax.png",Sony Sab
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysab.png",Sony Sab
 http://195.26.87.217/live.ts?channelId=191&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/starplus.png",Star Plus HD
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/starplus.png",Star Gold HD
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/stargold.png",Star Gold HD
 http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/starplus.png",Star Movies HD
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/starmovies.png",Star Movies HD
 http://195.26.87.217/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
