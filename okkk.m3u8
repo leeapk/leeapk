@@ -11,7 +11,8 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 ##http://cdn01.palki.tv:80/live/JamunaTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/independenttv.png" group-title="Bangla",Independent TV
-http://cdn01.palki.tv:80/live/Independent-M/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
+##http://cdn01.palki.tv:80/live/Independent-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/ekattortv.png" group-title="Bangla",Ekattor TV
 http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
@@ -50,7 +51,8 @@ http://cdn01.palki.tv:80/live/ATNNews-M/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv:80/live/AnandaTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/asiantv.png" group-title="Bangla",Asian TV
-http://cdn01.palki.tv:80/live/AsianTV-M/tracks-v1a1/mono.m3u8
+https://mtlivestream.site/asian/ytlive/index.m3u8
+##http://cdn01.palki.tv:80/live/AsianTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/banglatv.png" group-title="Bangla",Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
@@ -64,14 +66,16 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 http://cdn01.palki.tv:80/live/BijoyTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/boishakhitv.png" group-title="Bangla",Boishakhi TV
-http://cdn01.palki.tv:80/live/BoishakhiTV-M/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
+##http://cdn01.palki.tv:80/live/BoishakhiTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/channel9.png" group-title="Bangla",Channel 9
 http://59.103.181.178:8000/play/a06i/index.m3u8
 ##http://cdn01.palki.tv:80/live/Channel9-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/channeli.png" group-title="Bangla",Channel i
-http://cdn01.palki.tv:80/live/Channeli-M/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
+##http://cdn01.palki.tv:80/live/Channeli-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/channels.png" group-title="Bangla",CHANNEL S HD
 https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
@@ -117,7 +121,8 @@ http://59.103.181.178:8000/play/a069/index.m3u8
 ##http://cdn01.palki.tv:80/live/MaasrangaTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/mohonatv.png" group-title="Bangla",Mohona TV
-http://cdn01.palki.tv:80/live/MohonaTV-M/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+##http://cdn01.palki.tv:80/live/MohonaTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/moviebangla.png" group-title="Bangla",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -135,15 +140,16 @@ https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 http://cdn01.palki.tv:80/live/NagorikTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nexustv.png" group-title="Bangla",Nexus TV
-http://cdn01.palki.tv:80/live/NexusTV-M/tracks-v1a1/mono.m3u8
-##https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+##http://cdn01.palki.tv:80/live/NexusTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/rtv.png" group-title="Bangla",RTV
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 ##http://cdn01.palki.tv:80/live/RTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/satv.png" group-title="Bangla",SA TV
-http://cdn01.palki.tv:80/live/SATV-M/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+##http://cdn01.palki.tv:80/live/SATV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/tbn24.png" group-title="Bangla",TBN24
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
