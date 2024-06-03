@@ -365,8 +365,11 @@ http://195.26.87.217/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/atnislamictv.png" group-title="Bangla",ATN Islamic TV
 https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/iqrabangla.png" group-title="Bangla", IQRA Bangla https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/iqrabangla.png" group-title="Bangla", IQRA Bangla 
+https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/islamtv.png" group-title="Bangla", Islam TV https://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/islamtv.png" group-title="Bangla", Islam TV 
+https://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/makkahtv.png" group-title="Bangla",Makkah TV https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/makkahtv.png" group-title="Bangla",Makkah TV 
+https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
