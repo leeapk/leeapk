@@ -1,9 +1,9 @@
-ffmpeg \
--i "https://cdn-2.pishow.tv/live/1461/1461_2.m3u8" \
--i "https://cdn-2.pishow.tv/live/1459/1459_0.m3u8" \
--map 0:v -map 1:a \
--c:v copy -c:a aac -b:a 128k \
--hls_flags independent_segments \
--hls_time 4 \
--hls_segment_filename "merged_%03d.ts" \
-merged.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:5,
+https://cdn-2.pishow.tv/live/1459/1459_0.m3u8
+#EXTINF:5,
+https://cdn-2.pishow.tv/live/1459/1459_2.m3u8
+#EXT-X-ENDLIST
