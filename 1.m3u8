@@ -1,13 +1,9 @@
-#EXTM3U
-#EXT-X-TARGETDURATION:6
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:24919
-#EXT-X-PROGRAM-DATE-TIME:2024-06-15T14:37:59.982Z
-#EXTINF:5.160,
-2024/06/15/14/37/59-05160.ts?token=96233faeb24a34363f8be33323587859
-#EXTINF:5.400,
-2024/06/15/14/38/05-05400.ts?token=96233faeb24a34363f8be33323587859
-#EXTINF:5.160,
-2024/06/15/14/38/10-05160.ts?token=96233faeb24a34363f8be33323587859
-#EXTINF:5.280,
-2024/06/15/14/38/15-05280.ts?token=96233faeb24a34363f8be33323587859
+ffmpeg \
+-i "https://cdn-2.pishow.tv/live/1461/1461_2.m3u8" \
+-i "https://cdn-2.pishow.tv/live/1459/1459_0.m3u8" \
+-map 0:v -map 1:a \
+-c:v copy -c:a aac -b:a 128k \
+-hls_flags independent_segments \
+-hls_time 4 \
+-hls_segment_filename "merged_%03d.ts" \
+merged.m3u8
